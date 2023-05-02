@@ -12,7 +12,8 @@ import { ButtonComponent } from './button/button.component';
   imports: [
   ],
   exports: [
-    CommonComponent
+    CommonComponent,
+    ButtonComponent
   ]
 })
 export class CommonModule { }
